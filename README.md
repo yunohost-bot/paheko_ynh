@@ -63,7 +63,6 @@ Once the migration is done, you should then upgrade to new release of Paheko.
 * Official app website: <https://paheko.cloud>
 * Official admin documentation: <https://fossil.kd2.org/paheko/wiki?name=Documentation>
 * Upstream app code repository: <https://fossil.kd2.org/paheko/dir?ci=tip>
-* YunoHost documentation for this app: <https://yunohost.org/app_paheko>
 * Report a bug: <https://github.com/YunoHost-Apps/paheko_ynh/issues>
 
 ## Developer info
