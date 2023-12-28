@@ -59,6 +59,7 @@ Une fois la migration terminée, vous pourrez mettre à jour avec la dernière v
 * Site officiel de l’app : <https://paheko.cloud>
 * Documentation officielle de l’admin : <https://fossil.kd2.org/paheko/wiki?name=Documentation>
 * Dépôt de code officiel de l’app : <https://fossil.kd2.org/paheko/dir?ci=tip>
+* YunoHost Store: <https://apps.yunohost.org/app/paheko>
 * Signaler un bug : <https://github.com/YunoHost-Apps/paheko_ynh/issues>
 
 ## Informations pour les développeurs
